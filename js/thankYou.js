@@ -35,5 +35,4 @@ async function sendFormData() {
   }
 }
 
-// Send data when page loads
 window.onload = sendFormData;

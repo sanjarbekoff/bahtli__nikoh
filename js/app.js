@@ -88,7 +88,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 const timerEl = document.getElementById("timer");
 
-// start time in seconds (2 minutes)
 let time = 2 * 60;
 
 const interval = setInterval(() => {
